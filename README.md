@@ -1,5 +1,7 @@
 Shop Jacket Project
 
+https://kesarjain3118.github.io/shop-jacket/
+
 An online shop project showcasing various jackets for sale.
 
 Description
